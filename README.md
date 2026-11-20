@@ -51,11 +51,3 @@ Resolved: 0
 - Stores up to 100 complaints
 - Duplicate Complaint IDs are not allowed
 
-## Team
-
-- Piyush
-- Anant Saraswat
-- Deep Yadav
-- Shivansh Sharma
-
-Supervisor: Mr. Dhruv Garg
